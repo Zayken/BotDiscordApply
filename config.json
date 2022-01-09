@@ -1,0 +1,37 @@
+{
+    "BOT_TOKEN": "",
+    "GUILD_ID": "",
+    "ROLES_NAMES": {
+        "APPLY": "Apply",
+        "OFFICER": "Officier",
+        "MEMBER": "Membre"
+    },
+    "CHANNEL_NAME": {
+        "APPLY": "apply"
+    },
+    "CATEGORY_NAME": {
+        "APPLY": "APPLY"
+    },
+    "QUESTIONS": [
+        {
+            "KEY": 1,
+            "TITLE": "what's your name ?"
+        },
+        {
+            "KEY": 2,
+            "TITLE": "what's your surame ?"
+        },
+        {
+            "KEY": 3,
+            "TITLE": "vlasse ?"
+        },
+        {
+            "KEY": 4,
+            "TITLE": "gui ?"
+        },
+        {
+            "KEY": 5,
+            "TITLE": "nouvelle question ?"
+        }
+    ]
+}
